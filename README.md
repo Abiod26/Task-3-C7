@@ -38,4 +38,4 @@ The analysis provides insights into:
 - `README.md` – Project documentation.
 
 ## Author
-**Opeyemi Adewale**
+**Opeyemi Adewale Okunoye**
